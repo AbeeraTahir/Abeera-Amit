@@ -1,0 +1,37 @@
+body{
+    background-color: #5D5394;
+    font-family: Arial, sans-serif;
+    height: 1050px;
+}
+#title{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+#description{
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+    font-style: italic;
+}
+.form-style{
+    background-color: #202C5F;
+    width: 55%;
+    margin: auto;
+    border-radius: 5px;
+    height: 950px;
+}
+#survey-form{
+    color: white;
+    padding: 25px;
+    width: 85%;
+    margin: auto;
+}
+input, select, textarea{
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+}
